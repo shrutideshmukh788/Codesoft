@@ -1,15 +1,6 @@
 # Codesoft
 
-Creating a personal portfolio using CSS and HTML is a popular beginner web development
-project.
-Header Section: Add your name or a logo at the top.
-Optionally, include a brief introduction or tagline.
-About Section: Insert an image of yourself.
-Write a short bio highlighting your skills and experience.
-Skills Section: List your key skills or areas of expertise.
-Projects Section: Showcase samples of your work or projects.
-Include project titles, descriptions, and images.
-Resume Section: Provide a link to download your resume in PDF format.
-Contact Section: Include your contact information, such as email address and phone
-number.
-Footer: Add a copyright notice and any additional links or information.
+Build a simple to-do list application that allows users to add,
+edit, and delete tasks. You can use HTML, CSS, and JavaScript
+for the front-end and store the tasks in local storage or a simple
+backend server using technologies like Node.js or Flask
