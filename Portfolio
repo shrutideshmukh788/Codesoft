@@ -1,0 +1,83 @@
+<link rel="stylesheet" href="style.css">
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="styles.css">
+  <title>Shruti Deshmukh - Portfolio</title>
+</head>
+<body>
+  <header>
+    <h1>Shruti Deshmukh</h1>
+    <p>Web Developer | Java Enthusiast</p>
+  </header>
+
+  <section id="about">
+    <img src="imagesprofile.jpeg" alt="Shruti Deshmukh" width="300" height="300">
+    <p>
+      Hi, I'm Shruti! I'm a passionate web developer with experience in HTML, CSS,
+      JavaScript, and Java. I enjoy creating user-friendly and visually appealing
+      websites that provide a great user experience.
+    </p>
+  </section>
+
+  <section id="skills">
+    <h2>Skills</h2>
+    <ul>
+      <li>HTML</li>
+      <li>CSS</li>
+      <li>JavaScript</li>
+      <li>Java</li>
+    </ul>
+  </section>
+
+  <section id="projects">
+    <h2>Projects</h2>
+    <div class="project">
+      <img src="Project1.png" alt="Project 1">
+      <h3>E-commerce Website</h3>
+      <ul>
+        <li>E-commerce website will expose you to a wide range of web development concepts and technologies.</li>
+        <li>Front-end development using HTML, CSS, and JavaScript.</li>
+        <li>Creating dynamic user interfaces and handling user interactions.</li>
+        <li>Working with back-end servers and APIs for data processing.</li>
+        <li>Integrating a third-party payment gateway.</li>
+        <li>Managing a database for product storage and user information.</li>
+        <li>Learning about security best practices for handling sensitive data.</li>
+        <li>Back-end: Node.js with Express or Django (Python)</li>
+      </ul>
+    </div>
+    <div class="project">
+      <img src="Project2.png" alt="Project 2">
+      <h3>Library Management System</h3>
+      <ul>
+        <li>Library Management System in C++ will introduce you to</li>
+        <li>fundamental programming concepts and essential C++ features C++ syntax, variables, and data types.</li>
+        <li>User input and output using the console.</li>
+        <li>Conditional statements and loops for implementing logic.</li>
+        <li>Functions for modular code organization.</li>
+        <li>Arrays or vectors for storing and managing book data.</li>
+        <li>File handling for data persistence.</li>
+      </ul>
+    </div>
+    <!-- Add more project divs as needed -->
+  </section>
+
+  <section id="resume">
+    <h2>Resume</h2>
+    <p>Download my <a href="Shruti's Resume (1).pdf" target="_blank" rel="noopener noreferrer">resume</a>.</p>
+  </section>
+
+  <section id="contact">
+    <h2>Contact</h2>
+    <p>Email: shrutideshmukh2004@gmail.com</p>
+    <p>Phone: 7000939119</p>
+  </section>
+
+  <footer>
+    <p>&copy; 2023 Shruti Deshmukh. All rights reserved.</p>
+  </footer>
+</body>
+</html>
